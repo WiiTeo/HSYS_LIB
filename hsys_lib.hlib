@@ -1,0 +1,5 @@
+# Just a simple library (very simple)
+
+elif userType == "hsys":
+  hsys_var = input("System Command : ")
+  os.system(hsys_var)
